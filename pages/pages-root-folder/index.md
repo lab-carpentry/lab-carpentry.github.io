@@ -8,7 +8,7 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_6.jpg
 widget1:
-  title: "Example Documents"
+  title: "Example Example Documents"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: widget-1-302x182.jpg
   text: 'Resources for onboarding.'
