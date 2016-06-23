@@ -4,7 +4,7 @@ title: "About Us"
 teaser: ""
 permalink: "/about/"
 ---
-Mission and goals of lab carpentry.
+Lab Carpentry provides management tools for academic research labs. We have extracted practices that we find useful, such as the construction of an onboarding document, and we provide templates of such practices.
 
 ## People
 
