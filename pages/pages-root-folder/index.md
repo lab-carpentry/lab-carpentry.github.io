@@ -8,10 +8,10 @@ layout: frontpage
 header:
 
 widget1:
-  title: "Example Example Documents"
+  title: "Organization Blueprints"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
-  image: widget-1-302x182.jpg
-  text: 'Resources for onboarding.'
+  image: 320px-Blueprint_of_Victory_-_NARA_-_534555.jpg
+  text: 'Document templates to use as you start your lab or update procedures.'
 widget2:
   title: "Personal Development"
   url: 'http://phlow.github.io/feeling-responsive/info/'
