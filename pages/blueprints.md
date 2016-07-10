@@ -11,3 +11,4 @@ An example onboarding manual is provided on GitHub via the [lab-carpentry/bluepr
 Examples of labs using this document include:
 
 * [The Greene Lab](http://greenelab-onboarding.readthedocs.io/en/latest/)
+* [The Huff Lab](http://arfc.github.io/manual/)
