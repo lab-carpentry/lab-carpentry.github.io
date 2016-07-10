@@ -10,5 +10,7 @@ An example onboarding manual is provided on GitHub via the [lab-carpentry/bluepr
 
 Examples of labs using this document include:
 
+* [The Brown Lab](http://ivory.idyll.org/lab/index.html)
 * [The Greene Lab](http://greenelab-onboarding.readthedocs.io/en/latest/)
 * [The Huff Lab](http://arfc.github.io/manual/)
+* [The Turk Lab](https://dxl.ncsa.illinois.edu/docs/)
