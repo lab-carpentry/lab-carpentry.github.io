@@ -9,7 +9,7 @@ header:
 
 widget1:
   title: "Organization Blueprints"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  url: '/blueprints/'
   image: 320px-Blueprint_of_Victory_-_NARA_-_534555.jpg
   text: 'Document templates to use as you start your lab or update procedures.'
 widget2:
