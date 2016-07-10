@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_6.jpg
+
 widget1:
   title: "Example Example Documents"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
