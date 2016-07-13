@@ -41,8 +41,8 @@ improve_content: https://github.com/lab-carpentry/lab-carpentry.github.io/edit/g
 urlimg: 'https://lab-carpentry.github.io/images/'
 
 
-# Logo size is 600x80 pixels
-logo: "logo.png"
+# Logo is 135 pixels high (for centering)
+logo: "logo_header.png"
 
 
 #       ____              _             __  _
