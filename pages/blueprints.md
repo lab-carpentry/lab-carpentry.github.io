@@ -11,3 +11,4 @@ An example onboarding manual is provided on GitHub via the [lab-carpentry/bluepr
 Examples of labs using this document include:
 
 * [The Greene Lab](http://greenelab-onboarding.readthedocs.io/en/latest/)
+* [Theory in Practice Lab](http://theoryinpractice-onboarding.readthedocs.io/en/latest/)
