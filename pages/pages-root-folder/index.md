@@ -36,7 +36,7 @@ widget3:
 #  url: /blueprints/
 #  text: Check out our new lab manual templates ›
 #  style: alert
-#permalink: /index.html
+permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
