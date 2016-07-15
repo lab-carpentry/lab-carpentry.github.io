@@ -5,7 +5,7 @@ teaser: ""
 permalink: "/governance/"
 ---
 
-Lab Carpentry is a volunteer project governed by a [steering committee](/people/) and enforced by [staff](/people/).  
+Lab Carpentry is a volunteer project governed by a [steering committee](/people/) and coordinated by [an executive director](/people/). All members and participants are contributing their time without compensation.
 
 ##Code of Conduct
-All participants are expected to adhere to our [Code of Conduct](/conduct-code/).
+All members and participants are expected to adhere to our [Code of Conduct](/conduct-code/).
