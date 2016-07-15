@@ -18,10 +18,10 @@ widget2:
   image: header-bus.jpg
   text: 'A Dear Abby style blog for scientists with questions on running a lab.'
 widget3:
-  title: "Workshops & Training"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  title: "Workshops"
+  url: '/prof-development/'
   image: widget-github-303x182.jpg
-  text: ''
+  text: 'Schedule Lab Carpentry discussion and training at your institution.'
 #
 # Use the call for action to show a button on the frontpage
 #

@@ -28,8 +28,10 @@
   url: "/resources/"
   side: left
   dropdown:
-  - title: "Example Lab Documents"
-    url: "/lab-documents/"
+  - title: "Lab Blueprints"
+    url: "/blueprints/"
+  - title: "LeafSpring Blog"
+    url: "http://leafspring.labcarpentry.org"
   - title: "Professional Development"
     url: "/prof-development/"
 
