@@ -13,12 +13,12 @@ widget1:
   image: 320px-Blueprint_of_Victory_-_NARA_-_534555.jpg
   text: 'Document templates to use as you start your lab or update procedures.'
 widget2:
-  title: "Personal Development"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: ''
+  title: "LeafSpring Blog"
+  url: 'http://leafspring.labcarpentry.org'
   image: header-bus.jpg
+  text: 'A Dear Abby style blog for scientists with questions on running a lab.'
 widget3:
-  title: "Training Others"
+  title: "Workshops & Training"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: widget-github-303x182.jpg
   text: ''
@@ -32,11 +32,11 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: /blueprints/
-  text: Check out our new lab manual templates ›
-  style: alert
-permalink: /index.html
+#callforaction:
+#  url: /blueprints/
+#  text: Check out our new lab manual templates ›
+#  style: alert
+#permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
