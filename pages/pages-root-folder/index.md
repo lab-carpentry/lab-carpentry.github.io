@@ -14,7 +14,7 @@ widget1:
   text: 'Document templates to use as you start your lab or update procedures.'
 widget2:
   title: "LeafSpring Blog"
-  url: 'http://leafspring.labcarpentry.org'
+  url: 'http://labcarpentry.org/leafspring'
   image: Tree_fern_frond_at_Akatarawa_small.jpg
   text: 'A Dear Abby style blog for scientists running research labs.'
 widget3:
