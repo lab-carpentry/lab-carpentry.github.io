@@ -12,10 +12,10 @@ We also are available for workshops and seminars to share our experiences with b
 
 ## People
 
-Our staff...
+Find out more about our staff and steering committee [here](/people).
 
 ## Governance
 Lab Carpentry is a volunteer project. All participants are expected to adhere to our [Code of Conduct](/conduct-code/).
 
 ## Founding
-Lab Carpentry was founded at the DDD Training Workshop at UC Davis in October 2015 by C. Titus Brown, Casey Greene, Raman Shah, Blair Sullivan, Matt Turk.
+Lab Carpentry was founded at the DDD Training Workshop at UC Davis in October 2015 by C. Titus Brown, Casey Greene, Raman Shah, Blair Sullivan, and Matt Turk.

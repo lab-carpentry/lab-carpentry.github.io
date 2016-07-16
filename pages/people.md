@@ -3,8 +3,24 @@ layout: page
 title: "People"
 teaser: ""
 permalink: "/people/"
+
+# Gallery
+#
+gallery:
+    - image_url: Anna_OutsideArchMuseum.jpeg
+      caption: Great images by Unsplash.com
+    - image_url: gallery-example-2.jpg
+      caption: Great images by Unsplash.com
+    - image_url: gallery-example-3.jpg
+      caption: Great images by Unsplash.com
+#
+# Styling
+#
+image:
+ thumb: Anna_OutsideArchMuseum.jpg
+#
 ---
-We are committed to...
+{% include gallery %}
 
 ## Staff
 
