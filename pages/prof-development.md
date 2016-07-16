@@ -9,9 +9,8 @@ All of the members of the Lab Carpentry steering committee are scientists who ca
 
 In addition to topics related to lab management, we're also happy to talk about our science. Our research domains span astronomy, computer science, ecology, math, and systems biology.
 
-We're also committed to broadly disseminating the content of talks that we give, and we'll post the source or powerpoint files here after they are delivered.
+We aim to broadly disseminate the content of talks that we give, and we'll post the source or powerpoint files here after they are delivered. Most of these will be licensed under a permissive license.
 
-Slide Decks:
-------------
+### Slide Decks:
 
 * [Casey Greene's slides](/assets/presentations/CaseyGreene-IowaState-BCB2016.pptx) from the [Iowa State BCB Retreat](http://www.bcb.iastate.edu/bcb-symposium) on 3/25/2016 [CC-BY].
