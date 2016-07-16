@@ -1,3 +1,5 @@
+- menu_name: "Social Media & Code"
+
 - name: GitHub
   url: http://github.com/lab-carpentry
   class: icon-github
