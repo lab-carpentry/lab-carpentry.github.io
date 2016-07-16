@@ -4,7 +4,7 @@ title: "Organization Blueprints"
 teaser: ""
 permalink: "/blueprints/"
 ---
-Each lab makes conscious or unconscious decisions about how the group will be organized. We have developed documents to help new investigators identify these opportunities to define the group's structure. Template sections for an onboarding manual can be found on [ReadTheDocs](http://lab-carpentry.readthedocs.io/en/latest/). This onboarding document is free to use with or without attribution for your own group because it is licensed as CC0. Some of the examples below are also licensed CC0.
+Each lab makes conscious or unconscious decisions about how the group will be organized. We have developed documents to help new investigators identify opportunities to define the group's structure. Template sections for an onboarding manual can be found on [ReadTheDocs](http://lab-carpentry.readthedocs.io/en/latest/). This onboarding document is free to use with or without attribution for your own group because it is licensed as CC0. Some of the examples below are also licensed CC0.
 
 ### Examples
 
