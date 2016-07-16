@@ -25,7 +25,7 @@ author: casey
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://labcarpentry.github.io'
+url: 'https://lab-carpentry.github.io'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
