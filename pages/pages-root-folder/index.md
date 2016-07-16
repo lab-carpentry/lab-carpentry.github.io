@@ -19,7 +19,7 @@ widget2:
   text: 'A Dear Abby style blog for scientists running research labs.'
 widget3:
   title: "Workshops"
-  url: '/prof-development/'
+  url: '/workshops/'
   image: Fail-a-lot-publicly.png
   text: 'Schedule Lab Carpentry discussion and training at your institution.'
 #

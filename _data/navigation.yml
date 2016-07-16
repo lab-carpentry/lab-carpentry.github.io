@@ -32,8 +32,8 @@
     url: "/blueprints/"
   - title: "LeafSpring Blog"
     url: "http://labcarpentry.org/leafspring"
-  - title: "Professional Development"
-    url: "/prof-development/"
+  - title: "Request a Workshop"
+    url: "/workshops/"
 
 - title: "Contact"
   url: "/contact/"

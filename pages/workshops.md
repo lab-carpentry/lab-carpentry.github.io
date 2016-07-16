@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Professional Development"
+title: "Schedule a Speaker"
 teaser: ""
-permalink: "/prof-development/"
+permalink: "/workshops/"
 ---
 
 All of the members of the Lab Carpentry steering committee are scientists who care about fostering environments that promote discoveries. We tend to have an open science perspective. If you'd like to have one of us lead a discussion on lab management practices, either contact someone directly or send an e-mail to anna.c.greene@gmail.com to be connected with someone able to lead a discussion.
