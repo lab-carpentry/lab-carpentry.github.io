@@ -15,12 +15,12 @@ widget1:
 widget2:
   title: "LeafSpring Blog"
   url: 'http://leafspring.labcarpentry.org'
-  image: header-bus.jpg
-  text: 'A Dear Abby style blog for scientists with questions on running a lab.'
+  image: Tree_fern_frond_at_Akatarawa_small.jpg
+  text: 'A Dear Abby style blog for scientists running research labs.'
 widget3:
   title: "Workshops"
   url: '/prof-development/'
-  image: widget-github-303x182.jpg
+  image: Fail-a-lot-publicly.png
   text: 'Schedule Lab Carpentry discussion and training at your institution.'
 #
 # Use the call for action to show a button on the frontpage
