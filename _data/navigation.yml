@@ -21,8 +21,8 @@
   dropdown:
   - title: "Help Develop Resources"
     url: "/develop-resources/"
-  - title: "Join Slack"
-    url: "/slack/"
+  - title: "Join Us"
+    url: "/joinus/"
 
 - title: "Resources"
   url: "/resources/"
