@@ -15,14 +15,14 @@
   - title: "Governance"
     url: "/governance/"
 
-- title: "Get Involved"
-  url: "/get-involved/"
-  side: left
-  dropdown:
-  - title: "Help Develop Resources"
-    url: "/develop-resources/"
-  - title: "Join Us"
-    url: "/join/"
+#- title: "Get Involved"
+#  url: "/get-involved/"
+#  side: left
+#  dropdown:
+#  - title: "Help Develop Resources"
+#    url: "/develop-resources/"
+#  - title: "Join Us"
+#    url: "/join/"
 
 - title: "Resources"
   url: "/resources/"
