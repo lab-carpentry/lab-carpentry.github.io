@@ -14,3 +14,4 @@ We aim to broadly disseminate the content of talks that we give, and we'll post 
 ### Slide Decks:
 
 * [Casey Greene's slides](/assets/presentations/CaseyGreene-IowaState-BCB2016.pptx) from the [Iowa State BCB Retreat](http://www.bcb.iastate.edu/bcb-symposium) on 3/25/2016 [CC-BY].
+* [Lucia Peixoto's slides](/assets/presentations/LuciaPeixoto-ISMB2016_JPI_Funding.pptx) from the [ISMB 2016 JPI meeting](https://www.iscb.org/ismb2016/2493) on 7/10/2016 [CC0].
