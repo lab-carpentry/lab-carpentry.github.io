@@ -34,6 +34,8 @@
     url: "http://labcarpentry.org/leafspring"
   - title: "Request a Workshop"
     url: "/workshops/"
+  - title: "Slack"
+    url: "/slack/"
 
 - title: "Contact"
   url: "/contact/"
