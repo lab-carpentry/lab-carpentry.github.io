@@ -8,10 +8,10 @@ layout: frontpage
 header:
 
 widget1:
-  title: "Organization Blueprints"
+  title: "Blueprints"
   url: '/blueprints/'
   image: 320px-Blueprint_of_Victory_-_NARA_-_534555.jpg
-  text: 'Document templates to use as you start your lab or update procedures.'
+  text: 'Document templates for starting your lab and writing grants.'
 widget2:
   title: "LeafSpring Blog"
   url: 'http://labcarpentry.org/leafspring'
