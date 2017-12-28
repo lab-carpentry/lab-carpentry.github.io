@@ -11,7 +11,7 @@ Each lab makes conscious or unconscious decisions about how the group will be or
 
 ### Examples
 
-* [The Greene Lab \[CC0\]](http://greenelab-onboarding.readthedocs.io/en/latest/)
+* [The Greene Lab \[CC0\]](https://github.com/greenelab/onboarding/blob/master/onboarding.md)
 * [The Turk Lab \[CC0\]](https://dxl.ncsa.illinois.edu/docs/)
 * [The Brown Lab](http://ivory.idyll.org/lab/index.html)
 * [The Huff Lab](http://arfc.github.io/manual/)
